@@ -1,0 +1,33 @@
+*{font-family: Tahoma;}
+
+button{
+	color:white; background-color: black;
+	display: block; margin: auto;
+	}
+
+#sector1{
+	background-color: red;
+	color:white;text-align:center;
+	}
+#sector2{
+	background-color: lightgreen;
+	color:green;	
+	}
+h2{text-align:center;}
+
+#sector3{
+	background-color:navy;
+	color:blue;
+	}
+
+h3{text-align:center;}
+
+#sector4{
+	background-color: powderblue;		
+	}
+
+#sector5{
+	background-color: whitesmoke;
+	}
+
+img {width: 200px; height: 200px;}
